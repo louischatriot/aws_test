@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*~
+env/*
+*.pyo
+*.pyc
+credentials/*
+.pytest_cache/*
